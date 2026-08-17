@@ -29,12 +29,6 @@ I turn raw, messy data into dashboards that answer real questions — sourcing, 
 
 ---
 
-### 📈 GitHub Stats
-
-![Abdul's GitHub stats](https://github-stats-extended.vercel.app/api?username=abdulahad27202&show_icons=true&theme=default)
-
----
-
 ### 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-ahad-ues02/)
