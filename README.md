@@ -31,7 +31,7 @@ I turn raw, messy data into dashboards that answer real questions — sourcing, 
 
 ### 📈 GitHub Stats
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulahad27202&show_icons=true&theme=default)
+![Abdul's GitHub stats](https://github-stats-extended.vercel.app/api?username=abdulahad27202&show_icons=true&theme=default)
 
 ---
 
