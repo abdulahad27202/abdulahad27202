@@ -1,7 +1,7 @@
 ### Hey, I'm Abdul 👋
 
 Data Analyst | BBIT Graduate (2026), Information Technology — UET Lahore
-Based in Sahiwal, Punjab, Pakistan 🇵🇰
+Based in Lahore, Punjab, Pakistan 🇵🇰
 
 I turn raw, messy data into dashboards that answer real questions — sourcing, cleaning, modeling, and visualizing datasets end-to-end in Power BI.
 
